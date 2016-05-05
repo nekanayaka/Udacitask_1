@@ -1,0 +1,29 @@
+commit 2f08b05917084e2e9c8cade2cdd888d6466216a2
+Author: Nimna Ekanayaka <nimna@nimna.me>
+Date:   Thu May 5 17:08:01 2016 -0300
+
+    Initial commit.
+
+commit 2bb87c112a858f632d695a3915cd8c1acea26ef0
+Author: Nimna Ekanayaka <nimna@nimna.me>
+Date:   Thu May 5 17:07:20 2016 -0300
+
+    Create and adds the four items with default description to the list object.
+
+commit c240a03b3a814b15efd64624c75b325112048fd0
+Author: Nimna Ekanayaka <nimna@nimna.me>
+Date:   Thu May 5 17:04:37 2016 -0300
+
+    Added the TodoList and Item classes with appropriate methods.
+
+commit 5d9e10b3c1666dd1292a0d5900b283e630ca3388
+Author: Nimna Ekanayaka <nimna@nimna.me>
+Date:   Thu May 5 17:02:47 2016 -0300
+
+    Removing starter files
+
+commit 58f6f3faf3c57336c5548595c7211068262042f8
+Author: Nimna Ekanayaka <nimna@nimna.me>
+Date:   Thu May 5 15:24:40 2016 -0300
+
+    Initial commit.
