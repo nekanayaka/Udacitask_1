@@ -2,6 +2,7 @@
 
 class TodoList
     attr_reader :title, :items
+    attr_writer :title
 
      # Initialize todo list with a title and no items
      def initialize(list_title)
@@ -22,6 +23,7 @@ end
 
 class Item
      attr_reader :description, :completed_status
+     attr_writer :completed_status
 
      # Initialize item with a description and marked as
      # not complete
