@@ -1,3 +1,39 @@
+commit 0ddb0118ed6986f0f06f65f3567d150a26860ffa
+Author: nekanayaka <nekanayaka@hollandcollege.com>
+Date:   Sun May 8 00:28:54 2016 +0000
+
+    Added the print method to the TodoList class to print out the details.
+
+commit 2b9d8c5e677616161ec8cfa3eb1a64f1b03c6675
+Author: nekanayaka <nekanayaka@hollandcollege.com>
+Date:   Sun May 8 00:27:18 2016 +0000
+
+    Removed the print methods from the launcher and items are set to strings.
+
+commit 29e811f76ee0efba9ae3e79283ac4866adaedd66
+Author: nekanayaka <nekanayaka@hollandcollege.com>
+Date:   Sat May 7 22:42:26 2016 +0000
+
+    Prints the list after each of the requirements.
+
+commit 15d3166fbd9750a15b04785964c4dad76c84da39
+Author: nekanayaka <nekanayaka@hollandcollege.com>
+Date:   Sat May 7 22:41:03 2016 +0000
+
+    Added mutator methods to TodoList and Item classes.
+
+commit a4ea010a39f529ea8bde1b4cb970d2c404b26421
+Author: nekanayaka <nekanayaka@hollandcollege.com>
+Date:   Thu May 5 20:59:59 2016 +0000
+
+    Changed the list object a global variable.
+
+commit 19e287dca4d6fb393c9910a52394c79a21f28936
+Author: Nimna Ekanayaka <nimna@nimna.me>
+Date:   Thu May 5 17:10:06 2016 -0300
+
+    Git log.
+
 commit 2f08b05917084e2e9c8cade2cdd888d6466216a2
 Author: Nimna Ekanayaka <nimna@nimna.me>
 Date:   Thu May 5 17:08:01 2016 -0300
