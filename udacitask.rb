@@ -30,7 +30,7 @@ list.delete_item(2)
 list.print_list
 
 # Update the completion status of the first item to complete
-list.items[0].completed_status = true
+list.items[0].set_task_status("true")
 
 # Print the list
 list.print_list
