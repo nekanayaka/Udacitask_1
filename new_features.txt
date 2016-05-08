@@ -1,3 +1,3 @@
-Feature #1: <Feature Description>
-Feature #2: <Feature Description>
-Feature #3: <Feature Description>
+Feature #1: A set task method is implemented instead of a mutator method to not give direct access to the completed_status instance.
+Feature #2: The task can be checked with check_task_status which returns a boolean value according to task status.
+Feature #3: Both TodoList and Item classes contains a print method to print the details.
