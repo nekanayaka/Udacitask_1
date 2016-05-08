@@ -23,7 +23,7 @@ class TodoList
      def print_list
         puts @title
         for item in @items
-            puts "#{@items.index(item)} - #{item.description} \t Completed: #{item.completed_status}"
+            puts "#{@items.index(item)} - #{item.print_item}"
         end
         puts "\n"
      end
@@ -50,5 +50,9 @@ class Item
      
      def check_task_status?(status)
         @completed_status
+     end
+     
+     def print_item
+        "#{@description} \t Completed: #{@completed_status}"
      end
 end
