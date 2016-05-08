@@ -31,12 +31,24 @@ end
 
 class Item
      attr_reader :description, :completed_status
-     attr_writer :completed_status
+    #  attr_writer :completed_status
 
      # Initialize item with a description and marked as
      # not complete
      def initialize(item_description)
         @description = item_description
         @completed_status = false
+     end
+     
+     def set_task_status(status)
+        if status == "true"
+            @completed_status = true
+        else
+            @completed_status = false
+        end
+     end
+     
+     def check_task_status?(status)
+        @completed_status
      end
 end
